@@ -1,0 +1,21 @@
+{
+  "name": "meteor-apollo-flow",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "apollo-client": "^0.4.11",
+    "apollo-server": "^0.2.5",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "graphql": "^0.6.2",
+    "http-proxy-middleware": "^0.17.1",
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.3.0",
+    "react-addons-pure-render-mixin": "^15.3.0",
+    "react-apollo": "^0.4.5",
+    "react-dom": "^15.3.0",
+    "react-mounter": "^1.2.0"
+  }
+}
